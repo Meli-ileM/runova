@@ -85,6 +85,6 @@ Voir les commandes de la section anglaise ci-dessus 👆.
 
 <div align="center">
 
-Made with 💜 by **Meli**
+Made with 💜 by **Meli** and **Sadi**
 
 </div>
